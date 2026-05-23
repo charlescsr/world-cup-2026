@@ -13,6 +13,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 # traditional way: theme component resides in directory 'themes'
 theme = "hugo-blog-awesome"
+canonifyURLs = true
 
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]

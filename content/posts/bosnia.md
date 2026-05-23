@@ -4,7 +4,7 @@ draft = false
 title = 'Bosnia & Herzegovina - Squad Reaction'
 +++
 
-![5fdeba3aaa83ecfdde113cf2ec8aaed7.png](images/5fdeba3aaa83ecfdde113cf2ec8aaed7.png)
+![5fdeba3aaa83ecfdde113cf2ec8aaed7.png](/images/5fdeba3aaa83ecfdde113cf2ec8aaed7.png)
 
 Bosnia and Herzegovina or as I like to call it "The team that made sure Italy missed yet another World Cup 😂". But honestly more than that I am still in shock and awe that Edin Dzeko will be heading to this tournament as a 40 year old. I guess I shouldn't be surprised given Cristiano Ronaldo exists but Dzeko is also so underrated. And he was very recently responsible for bringing Schalke back to the Bundesliga in this current season so honestly you know why the guy is underrated now.
 
@@ -14,13 +14,13 @@ My ones to watch from this Bosnia squad are actually two people and one was a pl
 
 ## Amar Dedic
 
-![d447455a120b88ebcb233083363b5a02.png](images/d447455a120b88ebcb233083363b5a02.png)
+![d447455a120b88ebcb233083363b5a02.png](/images/d447455a120b88ebcb233083363b5a02.png)
 
 Someone who did numbers when I used him in my Manchester United save back in Football Manager 24(Just will abbreviate it to FM after this because it may appear quite a lot of times 😅). And he has finally found his footing in the football world after his time at RB Salzburg. I know he can't get a move after this tournament since he only moved to Benfica in the Portuguese league this season but he has put up very steady numbers for Benfica as well under the Special One Jose. His starts are less at 21 out of 24 in the league since it would appear he is behind Alexander Bah for the most part. To be fair he has been a mainstay for his national team at RB and I think he is someone to watch at 23.
 
 ## Kerim Alajbegović
 
-![4b0c5c99bfbe7bd121a0fa56fc0df791.png](images/4b0c5c99bfbe7bd121a0fa56fc0df791.png)
+![4b0c5c99bfbe7bd121a0fa56fc0df791.png](/images/4b0c5c99bfbe7bd121a0fa56fc0df791.png)
 
 Now this one was a surprise because I did have this guy in my Manchester United career mode when I first started playing FM26(Given how United are performing IRL is anyone really surprised at how I'm coping with these career modes? 😅) and he was actually German in that save game and was a very good player for me. Quality winger but seemed to be played as more of a CM who could drift to the left perhaps from what I'm seeing for Salzburg. He is such a solid wonderkid who has already gotten his move in the summer with him returning to Bayer Leverkusen in the Bundesliga after starting his career there in Koln and the latter. So I'm honestly happy for the guy. He is someone who is one to watch for sure if he gets more gametime in the tournament. Salzburg did not have the best season in the Austrian Bundesliga given they finished third behind Sturm Graz and eventual champions LASK. Given they are backed by the Red Bull group it always is a surprise when they don't win but Kerim was solid getting 9 goals and 3 assists in 28 matches which is a decent return for the 18 year old. Hoping he gets minutes.
 
@@ -32,6 +32,6 @@ Coming to midfield there are some problems with 2 injuries to Hadziahmetovic and
 
 So this is how it feels like the coach will go given the injuries and all:
 
-![8d241735d9ba575a947bad325590558a.png](images/8d241735d9ba575a947bad325590558a.png)
+![8d241735d9ba575a947bad325590558a.png](/images/8d241735d9ba575a947bad325590558a.png)
 
 I got to tell you, I am so grateful to see Fotmob come out with a beautiful lineup builder like this. We're leveling uppp ⭐
