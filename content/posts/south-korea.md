@@ -1,6 +1,6 @@
 +++
 date = '2026-05-23T19:30:06Z'
-draft = true
+draft = false
 title = 'South Korea - Squad Reaction'
 +++
 
