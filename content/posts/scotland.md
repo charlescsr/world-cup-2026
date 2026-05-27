@@ -1,5 +1,5 @@
 +++
-date = '2026-05-25T18:24:14Z'
+date = '2026-05-26T18:24:14Z'
 draft = false
 title = 'Scotland - Squad Reaction'
 +++
